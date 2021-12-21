@@ -10,7 +10,7 @@ function App() {
         gutterBottom
         variant="h2"
         align ="center">
-          Student management 
+          Pharmacy 
         </Typography>
       <Managment />
     </Container>
